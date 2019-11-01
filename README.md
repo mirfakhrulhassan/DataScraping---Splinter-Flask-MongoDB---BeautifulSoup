@@ -1,4 +1,4 @@
-# DataScraping---Splinter-Flask-MongoDB---BeautifulSoup
+# DataScraping-Splinter-Flask-MongoDB-BeautifulSoup
 
 
 Techonology Used:  Splinter, BeautifulSoup, Flask , MongoDB ,PyMongo
